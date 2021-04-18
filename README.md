@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, React Native
 - 📫 How to reach me via: <br>
   🔹Telegram: [@This_Username_Is_Already_Taken](https://t.me/This_Username_Is_Already_Taken) <br>
-  🔸Instagram: <a href="instagram.com/amiwr._._>@amiwr._._</a>
+  🔸Instagram: [@amiwr._._](https://instagram.com/amiwr._._)
   🔹Discord: amiwrpremium#5209
 
 <!---
